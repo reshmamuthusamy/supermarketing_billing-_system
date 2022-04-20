@@ -1,5 +1,5 @@
 # supermarketing_billing-_system
-  Supermarket billing system  is a simple mini project in C++, built as a console application w. It’s just a demonstration of the use of file handling and stream class in C++ language.
+  Supermarket billing system  is a simple mini project in C++, built as a console application .
   
   
   Features of this project:
